@@ -1,0 +1,55 @@
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\bin\Debug\Organization of practical training for students.exe.config
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\bin\Debug\Organization of practical training for students.exe
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\bin\Debug\Organization of practical training for students.pdb
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\bin\Debug\MySql.Data.dll
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\bin\Debug\Google.Protobuf.dll
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\bin\Debug\ZstdNet.dll
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\bin\Debug\BouncyCastle.Crypto.dll
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\bin\Debug\System.Memory.dll
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\bin\Debug\System.Buffers.dll
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\bin\Debug\K4os.Compression.LZ4.dll
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\bin\Debug\K4os.Hash.xxHash.dll
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\bin\Debug\MySql.Data.xml
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\obj\Debug\Organization of practical training for students.csproj.AssemblyReference.cache
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\obj\Debug\Organization of practical training for students.csproj.SuggestedBindingRedirects.cache
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\obj\Debug\Organization of practical training for students.exe.config
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\obj\Debug\Organization_of_practical_training_for_students.Form1.resources
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\obj\Debug\Organization_of_practical_training_for_students.Properties.Resources.resources
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\obj\Debug\Organization of practical training for students.csproj.GenerateResource.cache
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\obj\Debug\Organization of practical training for students.csproj.CoreCompileInputs.cache
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\obj\Debug\Organization of practical training for students.csproj.CopyComplete
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\obj\Debug\Organization of practical training for students.exe
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\obj\Debug\Organization of practical training for students.pdb
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\obj\Debug\Organization_of_practical_training_for_students.specialiti.resources
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\obj\Debug\Organization_of_practical_training_for_students.specialiti_deleted.resources
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\obj\Debug\Organization_of_practical_training_for_students.specialiti_update.resources
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\obj\Debug\Organization_of_practical_training_for_students.gruppa_createdcs.resources
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\obj\Debug\Organization_of_practical_training_for_students.gruppa_deleted.resources
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\obj\Debug\Organization_of_practical_training_for_students.gruppa_update.resources
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\obj\Debug\Organization_of_practical_training_for_students.students_created.resources
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\obj\Debug\Organization_of_practical_training_for_students.students_update.resources
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\obj\Debug\Organization_of_practical_training_for_students.students_deleted.resources
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\obj\Debug\Organization_of_practical_training_for_students.enterprises_created.resources
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\obj\Debug\Organization_of_practical_training_for_students.enterprises_update.resources
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\obj\Debug\Organization_of_practical_training_for_students.enterprises_deleted.resources
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\obj\Debug\Organization_of_practical_training_for_students.department_created.resources
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\obj\Debug\Organization_of_practical_training_for_students.department_update.resources
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\obj\Debug\Organization_of_practical_training_for_students.department_deleted.resources
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\obj\Debug\Organization_of_practical_training_for_students.employees_created.resources
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\obj\Debug\Organization_of_practical_training_for_students.employees_update.resources
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\obj\Debug\Organization_of_practical_training_for_students.employees_deleted.resources
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\obj\Debug\Organization_of_practical_training_for_students.typs_of_practice_created.resources
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\obj\Debug\Organization_of_practical_training_for_students.typs_of_practice_update.resources
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\obj\Debug\Organization_of_practical_training_for_students.typs_of_practice_deleted.resources
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\obj\Debug\Organization_of_practical_training_for_students.referral_to_industrial_practice.resources
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\bin\Debug\NetOffice.dll
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\bin\Debug\OfficeApi.dll
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\bin\Debug\VBIDEApi.dll
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\bin\Debug\WordApi.dll
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\bin\Debug\NetOffice.xml
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\bin\Debug\OfficeApi.xml
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\bin\Debug\VBIDEApi.xml
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\bin\Debug\WordApi.xml
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\bin\Debug\Xceed.Document.NET.dll
+D:\project\БД и СУБД\Курсовой проект\Organization of practical training for students\Organization of practical training for students\bin\Debug\Xceed.Words.NET.dll
